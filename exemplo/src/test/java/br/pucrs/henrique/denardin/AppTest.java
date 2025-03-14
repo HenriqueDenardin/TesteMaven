@@ -1,8 +1,5 @@
 package br.pucrs.henrique.denardin;
 
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
